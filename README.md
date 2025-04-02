@@ -1,3 +1,3 @@
-Task1: Check if a number is even or odd
+Task1.py: Check if a number is even or odd
 
-Task2: Sum of Integres from 1 to 50 using a loop
+Task2.py: Sum of Integres from 1 to 50 using a loop
